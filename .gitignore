@@ -5,3 +5,5 @@
 /build
 /.classpath
 /.project
+/.nb-gradle/profiles/private/
+/.nb-gradle/private/
